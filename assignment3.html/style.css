@@ -1,0 +1,9 @@
+body {
+    background-color:rgb(175, 120, 58);
+}
+li {
+    display: inline-block;
+    background-color: beige;
+    text-align: center;
+    font-size: 25px;
+}
